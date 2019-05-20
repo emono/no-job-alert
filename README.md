@@ -1,4 +1,4 @@
-## what's this?
+## What's this?
 - No work alert(no contribution alert)
 
 ## 日本語
